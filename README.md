@@ -1,5 +1,5 @@
 # go-quine
-main.go and the output of main.go is exactly equivalent.
+main.go and the output of main.go are exactly equivalent.
 
 ```console
 # the below command doesn't output anything
